@@ -1,0 +1,7 @@
+C:\Users\chefr\Desktop\Basic_C#_Programs2\Dailyreport2\bin\Debug\Dailyreport2.exe.config
+C:\Users\chefr\Desktop\Basic_C#_Programs2\Dailyreport2\bin\Debug\Dailyreport2.exe
+C:\Users\chefr\Desktop\Basic_C#_Programs2\Dailyreport2\bin\Debug\Dailyreport2.pdb
+C:\Users\chefr\Desktop\Basic_C#_Programs2\Dailyreport2\obj\Debug\Dailyreport2.csproj.AssemblyReference.cache
+C:\Users\chefr\Desktop\Basic_C#_Programs2\Dailyreport2\obj\Debug\Dailyreport2.csproj.CoreCompileInputs.cache
+C:\Users\chefr\Desktop\Basic_C#_Programs2\Dailyreport2\obj\Debug\Dailyreport2.exe
+C:\Users\chefr\Desktop\Basic_C#_Programs2\Dailyreport2\obj\Debug\Dailyreport2.pdb
