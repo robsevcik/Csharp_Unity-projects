@@ -4,7 +4,7 @@ namespace income_comparrison
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)// user input is a variable and converted to int
         {
             Console.WriteLine("Anonymous Income Comparison Program");
             Console.WriteLine("Person 1");
