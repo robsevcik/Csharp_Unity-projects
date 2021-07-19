@@ -1,0 +1,7 @@
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\MathandComparison\bin\Debug\MathandComparison.exe.config
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\MathandComparison\bin\Debug\MathandComparison.exe
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\MathandComparison\bin\Debug\MathandComparison.pdb
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\MathandComparison\obj\Debug\MathandComparison.csproj.AssemblyReference.cache
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\MathandComparison\obj\Debug\MathandComparison.csproj.CoreCompileInputs.cache
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\MathandComparison\obj\Debug\MathandComparison.exe
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\MathandComparison\obj\Debug\MathandComparison.pdb
