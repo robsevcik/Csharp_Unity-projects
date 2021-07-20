@@ -38,7 +38,7 @@ namespace Shipping_quote
 
             else
             {
-             int Cost = (((width * height * length) * weight) / 100);
+             decimal Cost = (((width * height * length) * weight) / 100);
 
               Console.WriteLine($"total is: ${Cost}");
             }
