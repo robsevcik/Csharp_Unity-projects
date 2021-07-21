@@ -1,0 +1,7 @@
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\ShippingQuote2\bin\Debug\ShippingQuote2.exe.config
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\ShippingQuote2\bin\Debug\ShippingQuote2.exe
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\ShippingQuote2\bin\Debug\ShippingQuote2.pdb
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\ShippingQuote2\obj\Debug\ShippingQuote2.csproj.AssemblyReference.cache
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\ShippingQuote2\obj\Debug\ShippingQuote2.csproj.CoreCompileInputs.cache
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\ShippingQuote2\obj\Debug\ShippingQuote2.exe
+D:\Documents\C# unity projects\Csharp--UNITY-Projects\ShippingQuote2\obj\Debug\ShippingQuote2.pdb
