@@ -43,6 +43,7 @@ namespace Shipping_quote
 
                     Console.WriteLine($"total is: ${Cost}");
                 }
+                Console.ReadLine();
             }
         }
     }
