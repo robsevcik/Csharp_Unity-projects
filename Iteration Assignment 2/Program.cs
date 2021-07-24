@@ -126,25 +126,28 @@ namespace Iteration_Assignment_2
 
             // part 5...............................................
 
-            //List<string> fruit = new List<string>();
+            List<string> fruit = new List<string>();
 
-            //fruit.Add("apple");
-            //fruit.Add("orange");
-            //fruit.Add("apple");
-            //fruit.Add("grapes");
-            //fruit.Add("banana");
-            //fruit.Add("apple");
+            fruit.Add("apple");
+            fruit.Add("orange");
+            fruit.Add("apple");
+            fruit.Add("grapes");
+            fruit.Add("banana");
+            fruit.Add("apple");
 
-            //foreach (string item in fruit)
-            //    if (fruit[0] == item)
-            //    {
-            //        Console.WriteLine(item + " this has already apeared");
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine(item + " you havent seen this yet");
-            //    }
-            //Console.ReadLine();
+            Console.WriteLine("pick an item from the list");
+            string userinput = Console.ReadLine();
+
+            foreach (string item in fruit)
+                if (fruit.Contains(userinput))
+                {
+                    Console.WriteLine(item + " this has already apeared");
+                }
+                else
+                {
+                    Console.WriteLine(item + " you havent seen this yet");
+                }
+            Console.ReadLine();
 
 
             //step 6......................................................
