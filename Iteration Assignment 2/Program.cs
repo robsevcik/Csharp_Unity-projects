@@ -1,7 +1,7 @@
 ﻿using DocumentFormat.OpenXml.Office.CustomUI;
 using System;
 using System.Collections.Generic;
-
+using System.Linq;
 
 namespace Iteration_Assignment_2
 {
@@ -126,27 +126,25 @@ namespace Iteration_Assignment_2
 
             // part 5...............................................
 
-            List<string> fruit = new List<string>();
+            var fruit = new List<string>();
 
             fruit.Add("apple");
             fruit.Add("orange");
             fruit.Add("apple");
-            fruit.Add("grapes");
+            fruit.Add("orange");
             fruit.Add("banana");
             fruit.Add("apple");
+            
+           
 
-            Console.WriteLine("pick an item from the list");
-            string userinput = Console.ReadLine();
+            var dupe = from s in fruit group s by s into g where g.Count() > 1 select g.First();
 
-            foreach (string item in fruit)
-                if (fruit.Contains(userinput))
-                {
-                    Console.WriteLine(item + " this has already apeared");
-                }
-                else
-                {
-                    Console.WriteLine(item + " you havent seen this yet");
-                }
+            foreach (var item in dupe)
+                
+            {
+                Console.WriteLine("duplicates:" + item);
+            }
+           
             Console.ReadLine();
 
 
