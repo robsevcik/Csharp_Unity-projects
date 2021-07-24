@@ -1,0 +1,10 @@
+C:\Users\chefr\source\repos\Iteration Assignment 2\bin\Debug\Iteration Assignment 2.exe.config
+C:\Users\chefr\source\repos\Iteration Assignment 2\bin\Debug\Iteration Assignment 2.exe
+C:\Users\chefr\source\repos\Iteration Assignment 2\bin\Debug\Iteration Assignment 2.pdb
+C:\Users\chefr\source\repos\Iteration Assignment 2\obj\Debug\Iteration Assignment 2.csproj.AssemblyReference.cache
+C:\Users\chefr\source\repos\Iteration Assignment 2\obj\Debug\Iteration Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\chefr\source\repos\Iteration Assignment 2\obj\Debug\Iteration Assignment 2.exe
+C:\Users\chefr\source\repos\Iteration Assignment 2\obj\Debug\Iteration Assignment 2.pdb
+C:\Users\chefr\source\repos\Iteration Assignment 2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\chefr\source\repos\Iteration Assignment 2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\chefr\source\repos\Iteration Assignment 2\obj\Debug\Iteration Assignment 2.csproj.CopyComplete
