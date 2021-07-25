@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chefr\\source\\repos\\exception handling\\exception handling.csproj",
+      "projectUniqueName": "D:\\Documents\\C# unity projects\\Csharp--UNITY-Projects\\exception handling\\exception handling.csproj",
       "projectName": "exception handling",
-      "projectPath": "C:\\Users\\chefr\\source\\repos\\exception handling\\exception handling.csproj",
+      "projectPath": "D:\\Documents\\C# unity projects\\Csharp--UNITY-Projects\\exception handling\\exception handling.csproj",
       "packagesPath": "C:\\Users\\chefr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chefr\\source\\repos\\exception handling\\obj\\",
+      "outputPath": "D:\\Documents\\C# unity projects\\Csharp--UNITY-Projects\\exception handling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
