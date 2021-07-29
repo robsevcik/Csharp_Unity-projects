@@ -21,7 +21,7 @@ namespace Main_method_submission_assignment
            
 
             Console.WriteLine("enter a number to add by");
-            decimal numtwo = Convert.ToInt32(Console.ReadLine());
+            decimal numtwo = Convert.ToDecimal(Console.ReadLine());
 
 
             decimal b = math.MyMethod1(numtwo);
@@ -30,11 +30,12 @@ namespace Main_method_submission_assignment
             Math math2 = new();
 
             Console.WriteLine("enter a number to subtract by");
-            string numthree = Convert.ToString(Console.ReadLine());
+           string numthree = Console.ReadLine();
 
 
             int c = math.MyMethod1(numthree);
             Console.WriteLine(c);
+            Console.ReadLine();
         } 
     }
 }
