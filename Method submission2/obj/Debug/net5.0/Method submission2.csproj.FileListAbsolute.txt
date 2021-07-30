@@ -1,0 +1,16 @@
+C:\Users\chefr\source\repos\Method submission2\bin\Debug\net5.0\Method submission2.exe
+C:\Users\chefr\source\repos\Method submission2\bin\Debug\net5.0\Method submission2.deps.json
+C:\Users\chefr\source\repos\Method submission2\bin\Debug\net5.0\Method submission2.runtimeconfig.json
+C:\Users\chefr\source\repos\Method submission2\bin\Debug\net5.0\Method submission2.runtimeconfig.dev.json
+C:\Users\chefr\source\repos\Method submission2\bin\Debug\net5.0\Method submission2.dll
+C:\Users\chefr\source\repos\Method submission2\bin\Debug\net5.0\ref\Method submission2.dll
+C:\Users\chefr\source\repos\Method submission2\bin\Debug\net5.0\Method submission2.pdb
+C:\Users\chefr\source\repos\Method submission2\obj\Debug\net5.0\Method submission2.csproj.AssemblyReference.cache
+C:\Users\chefr\source\repos\Method submission2\obj\Debug\net5.0\Method submission2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chefr\source\repos\Method submission2\obj\Debug\net5.0\Method submission2.AssemblyInfoInputs.cache
+C:\Users\chefr\source\repos\Method submission2\obj\Debug\net5.0\Method submission2.AssemblyInfo.cs
+C:\Users\chefr\source\repos\Method submission2\obj\Debug\net5.0\Method submission2.csproj.CoreCompileInputs.cache
+C:\Users\chefr\source\repos\Method submission2\obj\Debug\net5.0\Method submission2.dll
+C:\Users\chefr\source\repos\Method submission2\obj\Debug\net5.0\ref\Method submission2.dll
+C:\Users\chefr\source\repos\Method submission2\obj\Debug\net5.0\Method submission2.pdb
+C:\Users\chefr\source\repos\Method submission2\obj\Debug\net5.0\Method submission2.genruntimeconfig.cache
