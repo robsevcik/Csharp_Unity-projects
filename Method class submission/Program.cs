@@ -21,7 +21,9 @@ namespace Method_class_submission
 
              Class1.Method(numone, numtwo);
 
-            Class1.Method(parameter1: numone, parameter2: numtwo);
+            Class1.Method(numone: 5, numtwo: 10);
+
+            Console.ReadLine();
         }
     }
 }
