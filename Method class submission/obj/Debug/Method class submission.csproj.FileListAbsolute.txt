@@ -1,0 +1,7 @@
+C:\Users\chefr\source\repos\Method class submission\bin\Debug\Method class submission.exe.config
+C:\Users\chefr\source\repos\Method class submission\bin\Debug\Method class submission.exe
+C:\Users\chefr\source\repos\Method class submission\bin\Debug\Method class submission.pdb
+C:\Users\chefr\source\repos\Method class submission\obj\Debug\Method class submission.csproj.AssemblyReference.cache
+C:\Users\chefr\source\repos\Method class submission\obj\Debug\Method class submission.csproj.CoreCompileInputs.cache
+C:\Users\chefr\source\repos\Method class submission\obj\Debug\Method class submission.exe
+C:\Users\chefr\source\repos\Method class submission\obj\Debug\Method class submission.pdb
