@@ -7,17 +7,13 @@ using System.Threading.Tasks;
 
 namespace Abstract_Class_Submission_Assignment
 {
-   public class Employee: Person, IQuittable//inherit the interface as many as you want//
+   public class Employee: Persons
     {
         public override void SayName()
         {
-            Console.WriteLine(Firstname + " " + Lastname);
+           Console.WriteLine(firstName + lastName);
         }
-       
-        public void Quit()
-        {
-            Console.WriteLine("test text1");
-        }
-       
+
+        
     }
 }
