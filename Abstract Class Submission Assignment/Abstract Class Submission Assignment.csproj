@@ -6,10 +6,7 @@
     <RootNamespace>Abstract_Class_Submission_Assignment</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\chefr\Desktop\Basic_C#_Programs\Person.cs" Link="Person.cs" />
-    <Compile Include="D:\Documents\C# Projects\Person.cs" Link="Person.cs" />
-  </ItemGroup>
+ 
 
   <ItemGroup>
     <PackageReference Include="DocuSign.eSign.dll" Version="5.5.0" />
