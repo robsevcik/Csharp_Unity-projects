@@ -8,11 +8,13 @@ namespace Abstract_Class_Submission_Assignment
 {
     public abstract class Person
     {
-        string firstName { get; set; }
-        string lastName { get; set; }
+        //properties//
+        public string Firstname { get; set; }
+        public string Lastname { get; set; }
+
+        public abstract void SayName();
+
+
     }
-    public void SayName();
-    {
-     Console.WriteLine(firstname + lastname);
-        }
 }
+
