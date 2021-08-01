@@ -1,0 +1,16 @@
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\bin\Debug\net5.0\Methods and objects submission assignment.exe
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\bin\Debug\net5.0\Methods and objects submission assignment.deps.json
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\bin\Debug\net5.0\Methods and objects submission assignment.runtimeconfig.json
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\bin\Debug\net5.0\Methods and objects submission assignment.runtimeconfig.dev.json
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\bin\Debug\net5.0\Methods and objects submission assignment.dll
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\bin\Debug\net5.0\ref\Methods and objects submission assignment.dll
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\bin\Debug\net5.0\Methods and objects submission assignment.pdb
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\obj\Debug\net5.0\Methods and objects submission assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\obj\Debug\net5.0\Methods and objects submission assignment.AssemblyInfoInputs.cache
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\obj\Debug\net5.0\Methods and objects submission assignment.AssemblyInfo.cs
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\obj\Debug\net5.0\Methods and objects submission assignment.csproj.CoreCompileInputs.cache
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\obj\Debug\net5.0\Methods and objects submission assignment.dll
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\obj\Debug\net5.0\ref\Methods and objects submission assignment.dll
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\obj\Debug\net5.0\Methods and objects submission assignment.pdb
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\obj\Debug\net5.0\Methods and objects submission assignment.genruntimeconfig.cache
+C:\Users\chefr\Desktop\Basic_C#_Programs\Methods and objects submission assignment\obj\Debug\net5.0\Methods and objects submission assignment.csproj.AssemblyReference.cache
