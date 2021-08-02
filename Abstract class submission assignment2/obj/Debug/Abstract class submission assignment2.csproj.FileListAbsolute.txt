@@ -1,0 +1,7 @@
+C:\Users\chefr\source\repos\Abstract class submission assignment2\bin\Debug\Abstract class submission assignment2.exe.config
+C:\Users\chefr\source\repos\Abstract class submission assignment2\bin\Debug\Abstract class submission assignment2.exe
+C:\Users\chefr\source\repos\Abstract class submission assignment2\bin\Debug\Abstract class submission assignment2.pdb
+C:\Users\chefr\source\repos\Abstract class submission assignment2\obj\Debug\Abstract class submission assignment2.csproj.AssemblyReference.cache
+C:\Users\chefr\source\repos\Abstract class submission assignment2\obj\Debug\Abstract class submission assignment2.csproj.CoreCompileInputs.cache
+C:\Users\chefr\source\repos\Abstract class submission assignment2\obj\Debug\Abstract class submission assignment2.exe
+C:\Users\chefr\source\repos\Abstract class submission assignment2\obj\Debug\Abstract class submission assignment2.pdb
