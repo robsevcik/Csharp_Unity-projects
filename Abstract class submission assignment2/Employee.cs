@@ -9,11 +9,11 @@ namespace Abstract_Class_Submission_Assignment
             Console.WriteLine(firstName + lastName);
         }
 
-        public void Quit(Player player)
+        public void Quit()
         {
             Console.WriteLine("Its working");
         }
 
-        Object obj = new IQuittable();
+        
     }
 }
