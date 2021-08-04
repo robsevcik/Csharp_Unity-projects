@@ -1,0 +1,16 @@
+C:\Users\chefr\source\repos\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.exe
+C:\Users\chefr\source\repos\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.deps.json
+C:\Users\chefr\source\repos\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.runtimeconfig.json
+C:\Users\chefr\source\repos\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.runtimeconfig.dev.json
+C:\Users\chefr\source\repos\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.dll
+C:\Users\chefr\source\repos\Operators Submission Assignment\bin\Debug\net5.0\ref\Operators Submission Assignment.dll
+C:\Users\chefr\source\repos\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.pdb
+C:\Users\chefr\source\repos\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\chefr\source\repos\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chefr\source\repos\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.AssemblyInfoInputs.cache
+C:\Users\chefr\source\repos\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.AssemblyInfo.cs
+C:\Users\chefr\source\repos\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\chefr\source\repos\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.dll
+C:\Users\chefr\source\repos\Operators Submission Assignment\obj\Debug\net5.0\ref\Operators Submission Assignment.dll
+C:\Users\chefr\source\repos\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.pdb
+C:\Users\chefr\source\repos\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.genruntimeconfig.cache
