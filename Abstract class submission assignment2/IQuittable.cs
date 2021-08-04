@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstract_class_submission_assignment2
+namespace Abstract_Class_Submission_Assignment
 {
     interface IQuittable
     {
