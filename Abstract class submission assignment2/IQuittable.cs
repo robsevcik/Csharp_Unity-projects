@@ -8,6 +8,6 @@ namespace Abstract_Class_Submission_Assignment
 {
     interface IQuittable
     {
-       void Quit(Player player);
+       void Quit();
     }
 }
