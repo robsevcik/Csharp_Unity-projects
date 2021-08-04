@@ -15,10 +15,7 @@ namespace Abstract_Class_Submission_Assignment
 
             IQuittable obj = new Employee();
 
-             void Quit()
-            {
-                Console.WriteLine("Its working");
-            }
+            obj.Quit();
 
 
             Console.ReadLine();
