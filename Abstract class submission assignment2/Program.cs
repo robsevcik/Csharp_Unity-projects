@@ -13,6 +13,14 @@ namespace Abstract_Class_Submission_Assignment
 
             employee.SayName();
 
+            IQuittable obj = new Employee();
+
+             void Quit()
+            {
+                Console.WriteLine("Its working");
+            }
+
+
             Console.ReadLine();
         }
 
