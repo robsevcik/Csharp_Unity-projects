@@ -13,11 +13,11 @@ namespace Operators_Submission_Assignment
 
         public static bool operator ==(Employee obj1, Employee obj2)
         {
-        return obj1 == obj2;
+        return obj1.ID == obj2.ID;
         }
     public static bool operator !=(Employee obj1, Employee obj2)
     {
-    return obj1 != obj2;
+    return obj1.ID != obj2.ID;
 
     }
   }
