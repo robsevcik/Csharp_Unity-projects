@@ -1,0 +1,16 @@
+C:\Users\chefr\source\repos\Parameters Submission Assignment\bin\Debug\net5.0\Parameters Submission Assignment.exe
+C:\Users\chefr\source\repos\Parameters Submission Assignment\bin\Debug\net5.0\Parameters Submission Assignment.deps.json
+C:\Users\chefr\source\repos\Parameters Submission Assignment\bin\Debug\net5.0\Parameters Submission Assignment.runtimeconfig.json
+C:\Users\chefr\source\repos\Parameters Submission Assignment\bin\Debug\net5.0\Parameters Submission Assignment.runtimeconfig.dev.json
+C:\Users\chefr\source\repos\Parameters Submission Assignment\bin\Debug\net5.0\Parameters Submission Assignment.dll
+C:\Users\chefr\source\repos\Parameters Submission Assignment\bin\Debug\net5.0\ref\Parameters Submission Assignment.dll
+C:\Users\chefr\source\repos\Parameters Submission Assignment\bin\Debug\net5.0\Parameters Submission Assignment.pdb
+C:\Users\chefr\source\repos\Parameters Submission Assignment\obj\Debug\net5.0\Parameters Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\chefr\source\repos\Parameters Submission Assignment\obj\Debug\net5.0\Parameters Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chefr\source\repos\Parameters Submission Assignment\obj\Debug\net5.0\Parameters Submission Assignment.AssemblyInfoInputs.cache
+C:\Users\chefr\source\repos\Parameters Submission Assignment\obj\Debug\net5.0\Parameters Submission Assignment.AssemblyInfo.cs
+C:\Users\chefr\source\repos\Parameters Submission Assignment\obj\Debug\net5.0\Parameters Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\chefr\source\repos\Parameters Submission Assignment\obj\Debug\net5.0\Parameters Submission Assignment.dll
+C:\Users\chefr\source\repos\Parameters Submission Assignment\obj\Debug\net5.0\ref\Parameters Submission Assignment.dll
+C:\Users\chefr\source\repos\Parameters Submission Assignment\obj\Debug\net5.0\Parameters Submission Assignment.pdb
+C:\Users\chefr\source\repos\Parameters Submission Assignment\obj\Debug\net5.0\Parameters Submission Assignment.genruntimeconfig.cache
