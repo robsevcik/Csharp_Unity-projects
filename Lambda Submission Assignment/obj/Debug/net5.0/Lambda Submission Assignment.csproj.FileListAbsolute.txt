@@ -1,0 +1,5 @@
+C:\Users\chefr\source\repos\Lambda Submission Assignment\obj\Debug\net5.0\Lambda Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\chefr\source\repos\Lambda Submission Assignment\obj\Debug\net5.0\Lambda Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chefr\source\repos\Lambda Submission Assignment\obj\Debug\net5.0\Lambda Submission Assignment.AssemblyInfoInputs.cache
+C:\Users\chefr\source\repos\Lambda Submission Assignment\obj\Debug\net5.0\Lambda Submission Assignment.AssemblyInfo.cs
+C:\Users\chefr\source\repos\Lambda Submission Assignment\obj\Debug\net5.0\Lambda Submission Assignment.csproj.CoreCompileInputs.cache
