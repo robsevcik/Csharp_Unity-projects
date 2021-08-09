@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Lambda_Submission_Assignment
 {
@@ -6,7 +7,7 @@ namespace Lambda_Submission_Assignment
     {
         public static void Main(string[] args)
         {
-          
+
 
             Employee emp1 = new Employee();
             {
@@ -80,37 +81,39 @@ namespace Lambda_Submission_Assignment
 
 
 
-            List<string> employeelist = new List<string>();
-
-            employeelist.Add("Joe Swanson");
-            employeelist.Add("Joe Stummer");
-            employeelist.Add("Joe Johnson");
-            employeelist.Add("Ian Curtis");
-            employeelist.Add("Ian Mcay");
-            employeelist.Add("Nicky Six");
-            employeelist.Add("Nick Mars");
-            employeelist.Add("Tommy Lee");
-            employeelist.Add("Vince Neil");
-            employeelist.Add("Brandon Lee");
+            List<Employee> employeelist = new List<Employee>();
 
 
-            int counter = 0;
-            foreach (string Joe in Employee)
+            employeelist.Add(emp1);
+            employeelist.Add(emp2);
+            employeelist.Add(emp3);
+            employeelist.Add(emp4);
+            employeelist.Add(emp5);
+            employeelist.Add(emp6);
+            employeelist.Add(emp7);
+            employeelist.Add(emp8);
+            employeelist.Add(emp9);
+            employeelist.Add(emp10);
+
+
+
+
+
+
+            foreach (string Joe in employeelist)
             {
-                if (Employee.FirstName == FirstName.Joe)
-                {
-                    counter++;
-
-                }
+                Console.WriteLine("Joe")
 
             }
-            Console.WriteLine(counter);
-
-            string count = Employee.count(x => x.Employee == firstName.Joe);
-
-            List<int> employeeList = new List<int>() = { employeeList.where(x => Id > 5).ToList};
             Console.ReadLine();
-        }
 
+            string count = employeelist.Count(x => x.Employee == firstName.Joe);
+
+            List < Employee > new List = employeelist.Where(x => Id > 5).ToList};
+       
+        }
+    Console.ReadLine();
     }
 }
+    
+
