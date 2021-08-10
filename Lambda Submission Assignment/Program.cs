@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Lambda_Submission_Assignment
 {
@@ -62,7 +63,7 @@ namespace Lambda_Submission_Assignment
             {
                 emp8.FirstName = "Tommy";
                 emp8.LastName = "Lee";
-                emp8.ID 008;
+                emp8.ID = 008;
             }
 
             Employee emp9 = new Employee();
@@ -82,7 +83,7 @@ namespace Lambda_Submission_Assignment
 
 
             List<Employee> employeelist = new List<Employee>();
-
+              
 
             employeelist.Add(emp1);
             employeelist.Add(emp2);
@@ -99,20 +100,31 @@ namespace Lambda_Submission_Assignment
 
 
 
+            List<Employee> Joes = new List<Employee>();
 
-            foreach (string Joe in employeelist)
+            foreach (Employee Joe in employeelist)
             {
-                Console.WriteLine("Joe")
+                if (Joe.FirstName == "Joe")
+                {
+                    Joes.Add(Joe);
+                }
+                
+                
+                
+
+
 
             }
             Console.ReadLine();
 
-            string count = employeelist.Count(x => x.Employee == firstName.Joe);
+            List<Employee> Singers = employeelist.Where(x => x.FirstName == "Joe").ToList();
 
-            List < Employee > new List = employeelist.Where(x => Id > 5).ToList};
+            List<Employee> newList = employeelist.Where(x => x.ID > 5).ToList();
+
+        Console.ReadLine();
        
         }
-    Console.ReadLine();
+   
     }
 }
     
