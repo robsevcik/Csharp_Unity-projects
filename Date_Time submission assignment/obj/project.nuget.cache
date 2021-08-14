@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "ep0jNkilgS1JcGuggnnJUhAtAlaY7jRH29n8mXIXnAXP9su2a80iXw9SOZcSfO9KxtEe1GCDJWJcqGJAgwBNjw==",
+  "dgSpecHash": "we1bP5mOFAo658c2VE7s0DE3Y/EkNpqyvIHnXu87YBrEtWUntmy+2fezkciS9izs1vQz9+jNLeeq/uv4lreKfQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\chefr\\source\\repos\\Date_Time submission assignment\\Date_Time submission assignment.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\chefr\\.nuget\\packages\\dryioc.dll\\4.8.1\\dryioc.dll.4.8.1.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\chefr\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
