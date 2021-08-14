@@ -1,0 +1,16 @@
+C:\Users\chefr\source\repos\Date_Time submission assignment\obj\Debug\net5.0\Date_Time submission assignment.csproj.AssemblyReference.cache
+C:\Users\chefr\source\repos\Date_Time submission assignment\obj\Debug\net5.0\Date_Time submission assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chefr\source\repos\Date_Time submission assignment\obj\Debug\net5.0\Date_Time submission assignment.AssemblyInfoInputs.cache
+C:\Users\chefr\source\repos\Date_Time submission assignment\obj\Debug\net5.0\Date_Time submission assignment.AssemblyInfo.cs
+C:\Users\chefr\source\repos\Date_Time submission assignment\obj\Debug\net5.0\Date_Time submission assignment.csproj.CoreCompileInputs.cache
+C:\Users\chefr\source\repos\Date_Time submission assignment\bin\Debug\net5.0\Date_Time submission assignment.exe
+C:\Users\chefr\source\repos\Date_Time submission assignment\bin\Debug\net5.0\Date_Time submission assignment.deps.json
+C:\Users\chefr\source\repos\Date_Time submission assignment\bin\Debug\net5.0\Date_Time submission assignment.runtimeconfig.json
+C:\Users\chefr\source\repos\Date_Time submission assignment\bin\Debug\net5.0\Date_Time submission assignment.runtimeconfig.dev.json
+C:\Users\chefr\source\repos\Date_Time submission assignment\bin\Debug\net5.0\Date_Time submission assignment.dll
+C:\Users\chefr\source\repos\Date_Time submission assignment\bin\Debug\net5.0\ref\Date_Time submission assignment.dll
+C:\Users\chefr\source\repos\Date_Time submission assignment\bin\Debug\net5.0\Date_Time submission assignment.pdb
+C:\Users\chefr\source\repos\Date_Time submission assignment\obj\Debug\net5.0\Date_Time submission assignment.dll
+C:\Users\chefr\source\repos\Date_Time submission assignment\obj\Debug\net5.0\ref\Date_Time submission assignment.dll
+C:\Users\chefr\source\repos\Date_Time submission assignment\obj\Debug\net5.0\Date_Time submission assignment.pdb
+C:\Users\chefr\source\repos\Date_Time submission assignment\obj\Debug\net5.0\Date_Time submission assignment.genruntimeconfig.cache
